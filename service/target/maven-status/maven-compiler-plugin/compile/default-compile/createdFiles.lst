@@ -1,0 +1,6 @@
+br\com\service\models\Pessoa.class
+br\com\service\ServletContext.class
+br\com\service\WebInitializer.class
+br\com\service\services\PessoaService.class
+br\com\service\PersistenceJPAConfig.class
+br\com\service\RootContext.class
